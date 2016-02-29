@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="100" height="16" tilewidth="16" tileheight="16" backgroundcolor="#222222" nextobjectid="59">
+ <tileset firstgid="1" name="Tileset_2" tilewidth="16" tileheight="16" tilecount="924" columns="33">
+  <image source="../img/map/NES - Super Mario Bros - Tileset.png" trans="ff00ff" width="528" height="448"/>
+ </tileset>
+ <layer name="background" width="100" height="16">
+  <data encoding="csv">
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,100,100,100,100,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,100,100,100,100,100,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,100,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,100,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,100,100,100,100,100,100,0,0,0,0,0,0,0,0,0,100,100,100,100,100,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,100,100,100,100,100,0,0,0,0,0,100,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,100,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,100,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,100,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,100,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,100,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,100,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,100,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,100,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+</data>
+ </layer>
+ <layer name="foreground" width="100" height="16">
+  <data encoding="csv">
+67,67,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,474,474,474,474,474,474,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+67,67,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,474,474,474,474,474,474,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+67,67,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,474,474,474,474,474,474,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+67,67,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,474,474,474,474,474,474,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+67,67,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,474,474,474,474,474,474,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+67,67,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,463,464,0,0,0,474,474,474,474,474,474,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+67,67,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,463,464,0,0,0,496,497,0,0,0,474,474,474,474,474,474,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+67,67,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,463,464,0,0,0,496,497,0,0,0,496,497,0,0,0,465,465,465,465,465,465,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+67,67,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,496,497,0,0,0,496,497,0,0,0,496,497,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,100,100,100,100,100,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+67,67,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,166,496,497,0,0,0,496,497,0,0,0,496,497,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+67,67,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,468,469,469,469,470,0,0,0,0,0,0,0,0,0,0,0,0,0,0,496,497,0,0,0,496,497,0,0,0,496,497,0,0,0,0,0,0,0,0,0,0,0,0,0,0,463,464,0,0,0,0,0,0,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+67,67,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,496,497,0,0,0,496,497,0,0,0,496,497,0,0,0,498,498,498,498,498,498,0,0,0,0,0,496,497,0,0,0,0,0,0,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+67,67,0,0,0,0,0,0,0,0,0,100,463,464,0,0,0,0,0,0,0,0,0,0,0,0,0,0,529,530,0,0,0,0,465,466,467,497,0,0,0,496,497,0,0,0,496,497,0,0,0,474,474,474,474,474,474,0,0,0,0,0,496,497,0,0,0,0,0,0,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+67,67,67,67,0,0,0,0,0,0,0,0,496,497,0,0,0,0,0,0,0,0,0,0,0,0,0,0,562,563,0,0,0,0,498,499,500,497,0,0,0,496,497,0,0,0,496,497,0,0,0,474,474,474,474,474,474,0,0,0,0,0,496,497,0,0,0,0,0,0,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+67,67,67,67,67,67,67,67,67,67,67,67,67,67,67,67,67,67,67,67,67,67,67,67,67,67,67,67,67,67,67,67,67,67,67,67,67,67,0,0,0,67,67,0,0,0,67,67,67,67,67,67,67,67,67,67,67,67,67,67,67,67,67,67,67,67,67,67,67,67,67,67,67,67,67,67,67,67,67,67,67,67,67,67,67,67,67,67,67,67,67,67,67,67,67,67,67,67,67,67,
+67,67,67,67,67,67,67,67,67,67,67,67,67,67,67,67,67,67,67,67,67,67,67,67,67,67,67,67,67,67,67,67,67,67,67,67,67,67,0,0,0,67,67,0,0,0,67,67,67,67,67,67,67,67,67,67,67,67,67,67,67,67,67,67,67,67,67,67,67,67,67,67,67,67,67,67,67,67,67,67,67,67,67,67,67,67,67,67,67,67,67,67,67,67,67,67,67,67,67,67
+</data>
+ </layer>
+ <objectgroup name="enemy_obj">
+  <object id="8" name="piranha_moving" type="piranha" x="200" y="178" width="16" height="24">
+   <properties>
+    <property name="frameheight" value="24"/>
+    <property name="framewidth" value="16"/>
+    <property name="image" value="piranha_plant"/>
+   </properties>
+  </object>
+  <object id="9" name="piranha_moving" type="piranha" x="456" y="177" width="16" height="24">
+   <properties>
+    <property name="frameheight" value="24"/>
+    <property name="framewidth" value="16"/>
+    <property name="image" value="piranha_plant"/>
+   </properties>
+  </object>
+  <object id="10" name="piranha_moving" type="piranha" x="777" y="207" width="16" height="24">
+   <properties>
+    <property name="frameheight" value="24"/>
+    <property name="framewidth" value="16"/>
+    <property name="image" value="piranha_plant"/>
+   </properties>
+  </object>
+  <object id="12" name="GumbaEntity" x="280" y="137" width="66.5" height="24">
+   <properties>
+    <property name="frameheight" value="16"/>
+    <property name="framewidth" value="16"/>
+    <property name="image" value="gumba"/>
+   </properties>
+  </object>
+  <object id="13" name="piranha_moving" type="piranha" x="944" y="207" width="16" height="24">
+   <properties>
+    <property name="frameheight" value="24"/>
+    <property name="framewidth" value="16"/>
+    <property name="image" value="piranha_plant"/>
+   </properties>
+  </object>
+  <object id="14" name="piranha_moving" type="piranha" x="1061" y="202" width="16" height="24">
+   <properties>
+    <property name="frameheight" value="24"/>
+    <property name="framewidth" value="16"/>
+    <property name="image" value="piranha_plant"/>
+   </properties>
+  </object>
+  <object id="22" name="piranha_moving" type="piranha" x="1161" y="203" width="16" height="24">
+   <properties>
+    <property name="frameheight" value="24"/>
+    <property name="framewidth" value="16"/>
+    <property name="image" value="piranha_plant"/>
+   </properties>
+  </object>
+  <object id="23" name="piranha_moving" type="piranha" x="1192" y="204" width="16" height="24">
+   <properties>
+    <property name="frameheight" value="24"/>
+    <property name="framewidth" value="16"/>
+    <property name="image" value="piranha_plant"/>
+   </properties>
+  </object>
+  <object id="24" name="piranha_moving" type="piranha" x="1217" y="204" width="16" height="24">
+   <properties>
+    <property name="frameheight" value="24"/>
+    <property name="framewidth" value="16"/>
+    <property name="image" value="piranha_plant"/>
+   </properties>
+  </object>
+  <object id="25" name="piranha_moving" type="piranha" x="1244" y="203" width="16" height="24">
+   <properties>
+    <property name="frameheight" value="24"/>
+    <property name="framewidth" value="16"/>
+    <property name="image" value="piranha_plant"/>
+   </properties>
+  </object>
+ </objectgroup>
+ <objectgroup name="collision">
+  <object id="27" x="0" y="0" width="30" height="254"/>
+  <object id="28" x="32" y="207" width="31" height="49"/>
+  <object id="29" x="66" y="222" width="540" height="33"/>
+  <object id="30" x="192" y="190" width="32" height="29"/>
+  <object id="31" x="271" y="161" width="83" height="14"/>
+  <object id="32" x="144" y="95" width="96" height="15"/>
+  <object id="34" x="271" y="31" width="82" height="17"/>
+  <object id="35" x="384" y="96" width="95" height="16"/>
+  <object id="36" x="447" y="193" width="34" height="28"/>
+  <object id="37" x="543" y="190" width="61" height="29"/>
+  <object id="38" x="577" y="112" width="31" height="79"/>
+  <object id="39" x="656" y="96" width="31" height="157"/>
+  <object id="40" x="736" y="80" width="30" height="175"/>
+  <object id="41" x="815" y="-1" width="96" height="130"/>
+  <object id="42" x="768" y="224" width="852" height="30"/>
+  <object id="43" x="816" y="174" width="96" height="50"/>
+  <object id="44" x="992" y="160" width="32" height="63"/>
+  <object id="45" x="1072" y="128" width="96" height="16"/>
+  <object id="46" x="1120" y="147" width="14" height="75"/>
+  <object id="47" x="1248" y="94" width="94" height="17"/>
+  <object id="48" x="1326" y="48" width="83" height="14"/>
+  <object id="49" x="1424" y="63" width="15" height="161"/>
+  <object id="50" x="1592" y="-159" width="25" height="382"/>
+  <object id="56" x="559" y="145" width="17" height="13"/>
+  <object id="58" x="175" y="190" width="17" height="15"/>
+ </objectgroup>
+ <objectgroup name="main_obj">
+  <object id="1" name="mainPlayer" x="41" y="190" width="16" height="16">
+   <properties>
+    <property name="canBreakTile" value="true"/>
+    <property name="framewidth" value="16"/>
+    <property name="image" value="mario_anim"/>
+   </properties>
+  </object>
+  <object id="2" name="mushroomBox" x="302" y="115" width="16" height="8">
+   <properties>
+    <property name="frameheight" value="16.00"/>
+    <property name="framewidth" value="16.00"/>
+    <property name="image" value="box"/>
+   </properties>
+  </object>
+  <object id="3" name="coin" x="183" y="56" width="12" height="14">
+   <properties>
+    <property name="framewidth" value="12"/>
+    <property name="image" value="coin"/>
+   </properties>
+  </object>
+  <object id="4" name="coin" x="305" y="4" width="12" height="14">
+   <properties>
+    <property name="framewidth" value="12"/>
+    <property name="image" value="coin"/>
+   </properties>
+  </object>
+  <object id="5" name="coin" x="422" y="63" width="12" height="14">
+   <properties>
+    <property name="framewidth" value="12"/>
+    <property name="image" value="coin"/>
+   </properties>
+  </object>
+  <object id="6" name="coin" x="458" y="156" width="12" height="14">
+   <properties>
+    <property name="framewidth" value="12"/>
+    <property name="image" value="coin"/>
+   </properties>
+  </object>
+  <object id="7" name="coin" x="202" y="152" width="12" height="14">
+   <properties>
+    <property name="framewidth" value="12"/>
+    <property name="image" value="coin"/>
+   </properties>
+  </object>
+  <object id="11" name="mushroomBox" x="663" y="42" width="16" height="8">
+   <properties>
+    <property name="frameheight" value="16.00"/>
+    <property name="framewidth" value="16.00"/>
+    <property name="image" value="box"/>
+   </properties>
+  </object>
+  <object id="15" name="coin" x="586" y="75" width="12" height="14">
+   <properties>
+    <property name="framewidth" value="12"/>
+    <property name="image" value="coin"/>
+   </properties>
+  </object>
+  <object id="16" name="coin" x="745" y="47" width="12" height="14">
+   <properties>
+    <property name="framewidth" value="12"/>
+    <property name="image" value="coin"/>
+   </properties>
+  </object>
+  <object id="17" name="coin" x="829" y="148" width="12" height="14">
+   <properties>
+    <property name="framewidth" value="12"/>
+    <property name="image" value="coin"/>
+   </properties>
+  </object>
+  <object id="18" name="coin" x="865" y="147" width="12" height="14">
+   <properties>
+    <property name="framewidth" value="12"/>
+    <property name="image" value="coin"/>
+   </properties>
+  </object>
+  <object id="19" name="coin" x="892" y="147" width="12" height="14">
+   <properties>
+    <property name="framewidth" value="12"/>
+    <property name="image" value="coin"/>
+   </properties>
+  </object>
+  <object id="20" name="coin" x="1000" y="126" width="12" height="14">
+   <properties>
+    <property name="framewidth" value="12"/>
+    <property name="image" value="coin"/>
+   </properties>
+  </object>
+  <object id="21" name="mushroomBox" x="1232" y="137" width="16" height="8">
+   <properties>
+    <property name="frameheight" value="16.00"/>
+    <property name="framewidth" value="16.00"/>
+    <property name="image" value="box"/>
+   </properties>
+  </object>
+  <object id="26" name="me.LevelEntity" x="1480" y="-158" width="14" height="379">
+   <properties>
+    <property name="duration" value="1000"/>
+    <property name="fade" value="#000000"/>
+    <property name="to" value="level03"/>
+   </properties>
+  </object>
+  <object id="53" name="coin" x="1272" y="62" width="12" height="14">
+   <properties>
+    <property name="framewidth" value="12"/>
+    <property name="image" value="coin"/>
+   </properties>
+  </object>
+  <object id="54" name="coin" x="1363" y="20" width="12" height="14">
+   <properties>
+    <property name="framewidth" value="12"/>
+    <property name="image" value="coin"/>
+   </properties>
+  </object>
+  <object id="55" name="coin" x="1119" y="94" width="12" height="14">
+   <properties>
+    <property name="framewidth" value="12"/>
+    <property name="image" value="coin"/>
+   </properties>
+  </object>
+  <object id="57" name="level3mark" x="1451" y="-159" width="10" height="382"/>
+ </objectgroup>
+</map>
